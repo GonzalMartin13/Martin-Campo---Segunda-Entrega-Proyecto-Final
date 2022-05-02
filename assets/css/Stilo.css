@@ -21,16 +21,14 @@
 .mainindex{
     margin-top: 30px;
     width: 80%;
-    height: 800px;
+    height: 750px;
     border: 5px #c7ab2e9a;
-    text-align: center;
     background: #ffffff54;
     background: -moz-linear-gradient(-45deg, #FFFFFF54 0%, #39393954 42%, #00000054 100%);
     background: -webkit-linear-gradient(-45deg, #FFFFFF54 0%, #39393954 42%, #00000054 100%);
     background: linear-gradient(135deg, #FFFFFF54 0%, #39393954 42%, #00000054 100%);
-    
+   
 }
-
 .botonindex{
     width: 300px;
     height: inherit;
