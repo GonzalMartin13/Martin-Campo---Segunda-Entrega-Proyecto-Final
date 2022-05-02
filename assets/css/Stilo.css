@@ -30,6 +30,14 @@
     background: linear-gradient(135deg, #FFFFFF54 0%, #39393954 42%, #00000054 100%);
     
 }
+
+.botonindex{
+    width: 300px;
+    height: inherit;
+    background-color: rgba(10, 10, 10, 0.589);
+    border: #615324 double 7px;
+    border-radius: 50px;
+}
 .footerindex{
     height: min-content;
     margin-top: 50px;
@@ -41,10 +49,7 @@
     text-align: center;
     background-color: rgb(0, 0, 0);
     /* position: fixed; */
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: space-evenly;
+  
 }
 
 .BodyProd{
