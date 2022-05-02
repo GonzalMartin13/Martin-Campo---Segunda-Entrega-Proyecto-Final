@@ -38,6 +38,26 @@
     border: #615324 double 7px;
     border-radius: 50px;
 }
+
+.botonindex:hover{
+    transform: scale(1.5);
+    transition: 500ms;
+    background-color: rgba(10, 10, 10, 0.795);
+}
+.botonindex a:hover{
+    color: rgba(10, 10, 10, 0.795);
+}
+.botonindex:active{
+    color: #FFD452;
+    background-color: #ffd452a4;
+    border: #615324 7px solid;
+}
+.botonindex a:visited{
+    background-color: rgba(10, 10, 10, 0.795);
+    color: #ffd452a4;
+    
+}
+
 .footerindex{
     height: min-content;
     margin-top: 50px;
